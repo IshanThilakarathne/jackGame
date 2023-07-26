@@ -1,0 +1,44 @@
+body{
+    background-image: url(images/back.jpg);
+    background-size: 100%;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+#btn {
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 16px 30px;
+    cursor: pointer;
+    margin-left: 20%;
+}
+
+h3{
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#mainResult{
+    font-weight: bold;
+    border: white 4px solid;
+}
+
+#btn-rest{
+    font-size: 30px;
+        border-radius: 10px;
+        padding: 16px 30px;
+        cursor: pointer;
+        margin-left: 20%;
+        display: none;
+        margin-top: 10px;
+}
+
+img {
+    margin-left: 10px;
+}
